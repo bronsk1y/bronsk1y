@@ -17,7 +17,6 @@
 - 🌱 Currently diving into **MAUI** to build cross-platform apps
 - 🤝 Open to collaboration and contributions on my repositories
 - 💬 Ask me about **C#**, **.NET**, or anything library design
-- 
 ---
 
 ## 🌐 Socials
@@ -49,6 +48,8 @@
 
 ---
 
+<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,7 +63,9 @@
 </p>
 
 ---
+-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bronsk1y&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/bronsk1y" alt="Profile views" />
 </p>
