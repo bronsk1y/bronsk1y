@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Building **[Kaz.Operations](https://github.com/bronsk1y/Kaz.Operations)** — a utility library for .NET Framework 4.7.2
+- 🔭 Building **[Kaz.Operations](https://github.com/bronsk1y/Kaz.Operations)** and **[Kaz.Http](https://github.com/bronsk1y/Kaz.Http)**
 - 🌱 Currently diving into **MAUI** to build cross-platform apps
 - 🤝 Open to collaboration and contributions on my repositories
 - 💬 Ask me about **C#**, **.NET**, or anything library design
