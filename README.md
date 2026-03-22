@@ -43,7 +43,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Kaz.Operations](https://github.com/bronsk1y/Kaz.Operations) | Utility library for .NET Framework 4.7.2 | C#, .NET |
+| [Kaz.Operations](https://github.com/bronsk1y/Kaz.Operations) | Utility library for .NET Framework 4.7.2 | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
+| [Kaz.Http](https://github.com/bronsk1y/Kaz.Http) | Resilient HTTP client for .NET 6+ with retry, caching, rate limiting, circuit breaker, bulkhead isolation, fallback routing, telemetry, and request signing. | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) |
 
 ---
 
