@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I am currently working on my repository called Kaz.Operations for .NET Framework<br>
+
+### 🖐 Hi i'm bronsk1y! 
+🔭 I'm currently working on my repository called Kaz.Operations for .NET Framework<br>
 🤝 I’m looking for help with my repository<br>
 🌱 I’m currently learning MAUI 
 
