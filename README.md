@@ -21,7 +21,6 @@
 
 ## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-bronsk1y-%23121011?logo=github)](https://github.com/bronsk1y)
 [![NuGet](https://img.shields.io/badge/NuGet-Kaz.Operations-blue?logo=nuget)](https://www.nuget.org/packages/Kaz.Operations)
 
 ---
